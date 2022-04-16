@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhedi5
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning R, SQL, Tableau.
-- 💞️ I’m looking to collaborate on societally significant projects.
+- 💞️ I’m looking to collaborate on projects with a cause.
 - 📫 How to reach me: DMs.
 
 <!---
