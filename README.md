@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhedi5
+- 👋 Hi, I’m @tystie5.
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning R, SQL, Tableau.
 - 💞️ I’m looking to collaborate on projects with a cause.
